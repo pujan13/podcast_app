@@ -1,5 +1,6 @@
 class Episode {
   final String title;
+  final String name;
   final String duration;
   final String audioUrl;
   final String description;
@@ -8,6 +9,7 @@ class Episode {
 
   Episode({
     required this.title,
+    required this.name,
     required this.duration,
     required this.description,
     required this.audioUrl,

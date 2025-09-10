@@ -38,6 +38,7 @@ dependencies:
   just_audio:
   percent_indicator:
   equatable:
+  flutter_svg:
 
 dev_dependencies:
   flutter_test:
