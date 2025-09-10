@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'detailsScreen/view/podcast_details_screen.dart';
+import 'package:podcast_app/screens/detailsScreen/view/podcast_details_screen.dart';
 
 void main() {
   runApp(const MyApp());
